@@ -1,0 +1,4 @@
+:root{--bg:#07040f;--fg:#ece6ff;--muted:#a99fc8;--accent:#ffb43a;--card:#140d26}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 -apple-system,system-ui,sans-serif}
+main{max-width:680px;margin:0 auto;padding:40px 16px 64px}h1{color:var(--accent);line-height:1.2}h2{margin-top:2em}
+a{color:var(--accent)}.muted{color:var(--muted)}.card{background:var(--card);border-radius:14px;padding:16px 20px;margin:16px 0}
